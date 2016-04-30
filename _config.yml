@@ -1,0 +1,28 @@
+name: VENTIST
+favicon: null
+layout_spectrum: 0.05641366122290492
+typography_spectrum: 0.20886484906077385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8028805458452553
+  lightness: 0.8342876292299479
+  saturation: 0.18636767007410526
+  rhythmicContrast: 0.22082693153060973
+purpose: []
