@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[VENTIST]]></title>
         <description><![CDATA[VENTIST]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ventist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 07:18:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 07:21:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ventist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89e8da58-e0c9-45e7-8f4d-2b5374f4d4fd.jpg">]]></description>
+            <link>https://thegrid.ai/ventist/ea17a8a7-33bb-4391-acef-04f056e29ed5/index.html</link>
+            <guid isPermaLink="false">ea17a8a7-33bb-4391-acef-04f056e29ed5</guid>
+            <pubDate>Sat, 30 Apr 2016 07:20:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ventist Events shares the spiritual experience fellowship, blessing and experience here with you.</p>]]></description>
-            <link>undefinedventist-events-shares-the-spiritual-experience-fellowship-b/index.html</link>
+            <link>https://thegrid.ai/ventist/ventist-events-shares-the-spiritual-experience-fellowship-b/index.html</link>
             <guid isPermaLink="false">8cbcdd23-0744-4ab7-94b0-51c026599cf6</guid>
             <pubDate>Sat, 30 Apr 2016 07:18:53 GMT</pubDate>
         </item>
