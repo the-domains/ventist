@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VENTIST]]></title>
+        <description><![CDATA[VENTIST]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 07:18:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ventist Events shares the spiritual experience fellowship, blessing and experience here with you.</p>]]></description>
+            <link>undefinedventist-events-shares-the-spiritual-experience-fellowship-b/index.html</link>
+            <guid isPermaLink="false">8cbcdd23-0744-4ab7-94b0-51c026599cf6</guid>
+            <pubDate>Sat, 30 Apr 2016 07:18:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
